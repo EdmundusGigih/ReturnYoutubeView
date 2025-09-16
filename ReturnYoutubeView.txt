@@ -1,0 +1,9 @@
+! Title: ReturnYoutubeView
+! Expires: 1 day
+! Version: 2025.9.17
+! Licence: https://www.gnu.org/licenses/gpl-3.0.html
+! Attribution Reporting, sent once per page
+@@||youtube.com/api/stats/atr?ns=
+! Quality of Experience, sent multiple times throughout the video
+@@||youtube.com/api/stats/qoe?fmt=
+! Allowing both results in more accurate view reporting
