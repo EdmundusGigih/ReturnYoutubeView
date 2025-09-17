@@ -1,0 +1,4 @@
+[
+{"action":{"type":"allow"},"condition":{"urlFilter":"||youtube.com/api/stats/atr?ns="},"priority":20,"id":1},
+{"action":{"type":"allow"},"condition":{"urlFilter":"||youtube.com/api/stats/qoe?fmt="},"priority":20,"id":2}
+]
